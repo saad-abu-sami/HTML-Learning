@@ -1,0 +1,11 @@
+a:link{color: brown;}
+a:visited{color: darkgreen;}
+a:hover{text-decoration: none; text-transform: uppercase; color: darkseagreen;}
+table{width: 85%;}
+table th{background: #C70039 ; color: darkseagreen;padding: 8px;}
+table td{text-align: center; border: 1px solid #B10C34 }
+ul{list-style-type: square;}
+div{background: rebeccapurple; margin-bottom: 5px; color: seashell; padding: 13px;}
+.green{background: yellowgreen;}
+.gray{background: #FFFF33 ; font-size: 50px;}
+#top_area{background: rgb(143, 82, 12); font-size: 25px;}
